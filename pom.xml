@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>ACADA Learning Releases Nexus Repository</name>
-	      <url>http://172.31.86.108:8081/repository/rbc-app-release/</url>
+	      <url>http://http://172.31.27.62:8081/repository/freestyle_fix/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>ACADA Learning Snapshot Nexus Repository </name>
-	      <url>http://172.31.86.108:8081/repository/rbc-app-snapshot/</url>
+	      <url>http://http://172.31.27.62:8081/repository/freestyle_snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
