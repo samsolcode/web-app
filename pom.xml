@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>ACADA Learning Releases Nexus Repository</name>
-	      <url>http://http://23.22.227.209:8081/repository/paypal_release/</url>
+	      <url>http://54.226.139.31:8081/repository/pipeline1release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>ACADA Learning Snapshot Nexus Repository </name>
-	      <url>http://http://23.22.227.209:8081/repository/Paypal_snapshot/freestyle_snapshot/</url>
+	      <url>http://54.226.139.31:8081/repository/pipeline1snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
